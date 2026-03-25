@@ -1,7 +1,24 @@
 # Vinayak-Rathi
 # 💫 About Me:
-🎓 I’m a third-year Engineering student<br><br>💻 I’m currently studying and practicing:<br>Java as my primary programming language<br><br>🐍 I also have knowledge of:<br>Python and basic problem-solving concepts<br><br>🌱 I’m currently learning:<br>Core Java, Object-Oriented Programming (OOP), and backend development concepts<br><br>👯 I’m looking to collaborate on:<br>Beginner to intermediate Java projects, college-level projects, and learning-based repositories<br><br>💬 Ask me about:<br>Java basics, Python fundamentals, coding practice, and engineering student projects<br><br>⚡ Fun fact:<br>I enjoy learning programming step by step and improving my skills every day 🚀
+🎓 I’m a third-year Engineering student
 
+💻 I’m currently studying and practicing:
+Java as my primary programming language
+
+🐍 I also have knowledge of:
+Python and basic problem-solving concepts
+
+🌱 I’m currently learning:
+Java backend development, focusing on server-side programming, APIs, and core backend concepts
+
+👯 I’m looking to collaborate on:
+Beginner to intermediate Java backend projects, college-level projects, and learning-based repositories
+
+💬 Ask me about:
+Java basics, Python fundamentals, backend concepts, coding practice, and engineering student projects
+
+⚡ Fun fact:
+I enjoy learning programming step by step and continuously improving my skills every day 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vinayakrathi20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinayakrathi156) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinayakrathi156@gmail.com) 
