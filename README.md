@@ -12,7 +12,6 @@
 - 💼 Completed an Applied Machine Learning Internship at CodeElevate Technologies
 - 💻 Strong foundation in Java, Python, SQL, Machine Learning, and Web Development
 - 🤖 Passionate about Artificial Intelligence, Data Science, and Backend Development
-- 🌱 Currently learning Spring Boot, REST APIs, and Full-Stack Development
 - 👨‍💻 Interested in building scalable software and AI-powered applications
 - 🤝 Open to Software Engineer, AI/ML, and Full-Stack Development opportunities
 - 📫 Reach me at **vinayakrathi156@gmail.com**
@@ -33,8 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
@@ -64,15 +61,6 @@
 - AI-powered image classification system for smart city municipal complaint categorization.
 - Developed during a university hackathon.
 
----
-
-## 📜 Certifications
-
-- ✅ Applied Machine Learning with Python – CodeElevate Technologies
-- ✅ Java Programming – Great Learning
-- ✅ JavaScript Essentials – Cisco Networking Academy
-
----
 
 ## 🌐 Connect with Me
 
