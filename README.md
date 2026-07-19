@@ -1,30 +1,87 @@
-# Vinayak-Rathi
-# 💫 About Me:
-🎓 I’m a third-year Engineering student
+# Hi 👋, I'm Vinayak Rathi
 
-💻 I’m currently studying and practicing:
-Java as my primary programming language
+### Final Year Computer Science Engineering Student | Machine Learning Enthusiast | Java Developer
 
-🐍 I also have knowledge of:
-Python and basic problem-solving concepts
+🎓 Final-year B.E. Computer Science Engineering student passionate about Software Development, Machine Learning, Artificial Intelligence, and Backend Development.
 
-🌱 I’m currently learning:
-Java backend development, focusing on server-side programming, APIs, and core backend concepts
+---
 
-👯 I’m looking to collaborate on:
-Beginner to intermediate Java backend projects, college-level projects, and learning-based repositories
+## 🚀 About Me
 
-💬 Ask me about:
-Java basics, Python fundamentals, backend concepts, coding practice, and engineering student projects
+- 🎓 Final-year B.E. Computer Science Engineering student (Graduating in 2027)
+- 💼 Completed an Applied Machine Learning Internship at CodeElevate Technologies
+- 💻 Strong foundation in Java, Python, SQL, Machine Learning, and Web Development
+- 🤖 Passionate about Artificial Intelligence, Data Science, and Backend Development
+- 🌱 Currently learning Spring Boot, REST APIs, and Full-Stack Development
+- 👨‍💻 Interested in building scalable software and AI-powered applications
+- 🤝 Open to Software Engineer, AI/ML, and Full-Stack Development opportunities
+- 📫 Reach me at **vinayakrathi156@gmail.com**
 
-⚡ Fun fact:
-I enjoy learning programming step by step and continuously improving my skills every day 🚀
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vinayakrathi20)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayakrathi156/)
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 💻 Tech Stack
 
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction System
+- Machine Learning model for disease prediction using Python and Scikit-learn.
+- Flask-based web application for real-time predictions.
+
+### 📊 Customer Churn Prediction System
+- Built a predictive analytics model using machine learning.
+- Performed data analysis, visualization, and customer behavior prediction.
+
+### 🎬 Movie Recommendation System
+- Developed a content-based recommendation system using Python and Scikit-learn.
+
+### 🏙️ CityIntel AI
+- AI-powered image classification system for smart city municipal complaint categorization.
+- Developed during a university hackathon.
+
+---
+
+## 📜 Certifications
+
+- ✅ Applied Machine Learning with Python – CodeElevate Technologies
+- ✅ Java Programming – Great Learning
+- ✅ JavaScript Essentials – Cisco Networking Academy
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinayakrathi156)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Vinayakrathi20)
+
+📧 **Email:** vinayakrathi156@gmail.com
+
+---
+
+### ⭐ *"Turning ideas into intelligent software solutions through continuous learning and innovation."*
